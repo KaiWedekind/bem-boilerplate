@@ -1,5 +1,5 @@
 <div style="display: flex; width: 100%; justify-content: center;">
-    <img src="https://mindtheshift.files.wordpress.com/2014/10/bemwithsass.jpg" alt="BEM + Sass Logo"/>
+    <img src="https://camo.githubusercontent.com/42890d80014e7ec7407359b6b5f872c2759636d5/68747470733a2f2f6d696e6474686573686966742e66696c65732e776f726470726573732e636f6d2f323031342f31302f62656d77697468736173732e6a7067" alt="BEM + Sass Logo"/>
 </div>
 <br />
 
